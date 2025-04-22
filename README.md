@@ -85,4 +85,4 @@ pytest tests/test_amazon_search.py -v
 
 ## 👨‍💻 Author
 
-Viplove Bisen | [YouTube](https://www.youtube.com/@viplovebisen) | [LinkedIn](https://linkedin.com/in/viplovebisen)
+Viplove Bisen | [YouTube](https://www.youtube.com/@Viplove_QA_SDET) | [LinkedIn](https://www.linkedin.com/in/viplove-bisen-1392689b)
